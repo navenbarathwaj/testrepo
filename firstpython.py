@@ -1,2 +1,1 @@
-#Display the output
-print(New pythin file)
+Test file firstpython.py
